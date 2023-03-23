@@ -1,0 +1,34 @@
+html{
+    background-image: linear-gradient(#008CBA,pink,rgb(166, 0, 255));
+    width: 100%;
+    height: 100%;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: aliceblue;
+  }
+
+  #random-text{
+    color: white;
+  }
+  
+  button {
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #00000037;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #006080;
+  }
+  
